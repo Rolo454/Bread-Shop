@@ -1,10 +1,4 @@
-<!--
-Rohan Tumkur
-11/3/2023
-IT202-003
-Section 003 Unit 7 Asignment
-rat6@njit.edu
--->
+
 <?php
 if(!isset($first_name)) {$first_name = '';}
 if(!isset($last_name)) {$last_name = '';}
