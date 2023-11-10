@@ -1,10 +1,4 @@
-<!--
-Rohan Tumkur
-11/3/2023
-IT202-003
-Section 003 Unit 7 Asignment
-rat6@njit.edu
--->
+
 <?php
 $l_dsn = 'mysql:host=localhost;port=3306;dbname=bread_shop';
 $l_username = 'bs_user';
